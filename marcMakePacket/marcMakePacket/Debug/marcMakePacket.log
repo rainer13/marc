@@ -1,0 +1,17 @@
+﻿  marcMakePacket.cpp
+c:\users\rainer\documents\visual studio 2017\projects\marcmakepacket\marcmakepacket\marcmakepacket.cpp(26): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(343): note: see declaration of 'strncpy'
+c:\users\rainer\documents\visual studio 2017\projects\marcmakepacket\marcmakepacket\marcmakepacket.cpp(36): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\rainer\documents\visual studio 2017\projects\marcmakepacket\marcmakepacket\marcmakepacket.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\rainer\documents\visual studio 2017\projects\marcmakepacket\marcmakepacket\marcmakepacket.cpp(46): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\rainer\documents\visual studio 2017\projects\marcmakepacket\marcmakepacket\marcmakepacket.cpp(48): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\rainer\documents\visual studio 2017\projects\marcmakepacket\marcmakepacket\marcmakepacket.cpp(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\rainer\documents\visual studio 2017\projects\marcmakepacket\marcmakepacket\marcmakepacket.cpp(76): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  marcMakePacket.vcxproj -> C:\Users\rainer\Documents\Visual Studio 2017\Projects\marcMakePacket\Debug\marcMakePacket.exe
+  marcMakePacket.vcxproj -> C:\Users\rainer\Documents\Visual Studio 2017\Projects\marcMakePacket\Debug\marcMakePacket.pdb (Partial PDB)
