@@ -1,0 +1,1 @@
+script.bat "C:\Users\rainer\Desktop\marc\fisier citit.txt" "C:\Users\rainer\Desktop\marc\fisier pachete.txt" "C:\Users\rainer\Desktop\marc\fisier reconstruit.txt"
